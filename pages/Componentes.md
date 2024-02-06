@@ -1,0 +1,3 @@
+- bloques de codigo los cuales son reutilzables, existen dos tipos de componentes
+	- [[Funcionales]]
+	- de Clase (deprecated)

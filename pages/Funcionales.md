@@ -1,0 +1,1 @@
+- son funciones de javaScript/ES6 que retorna un elemento de react (JSX)

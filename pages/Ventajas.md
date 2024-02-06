@@ -1,0 +1,6 @@
+- Facil de aprender y usar
+- Creacion de componentes
+	- [[Componentes]]
+- Crear aplicaciones dinamicas
+- Buen desempeño en ejecucion
+-
